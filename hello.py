@@ -1,5 +1,5 @@
 def main():
-    print("Hi this is python 3")
+    print("Hi this is a python 3")
 
 
 if __name__ == "__main__":
